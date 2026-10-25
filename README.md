@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I'm George 👋
 
-<!--
-**georgedotdev/georgedotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write **server-authoritative Luau** for Roblox games: combat, player data, and economies that exploiters can't break.
+CS student at VIT Vellore. **Commissions are open.**
 
-Here are some ideas to get you started:
+**→ [Portfolio and live combat demo](https://georgedotdev.github.io)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Featured: [roblox-systems](https://github.com/georgedotdev/roblox-systems)
+
+| | |
+|---|---|
+| ⚔️ **Combat** | Validated remotes, token-bucket rate limiting, server-time combos, capped lag compensation |
+| 💾 **Data** | ProfileStore session locking, atomic versioned migrations, exactly-once developer products |
+| 💰 **Economy** | Exponential prices with O(1) "buy max", prestige, clock-safe offline earnings |
+
+61 unit tests run in GitHub Actions on every push.
+
+#### Toolkit
+
+`Luau` · `Rojo` · `Git` · `Wally` · `ProfileStore` · `Lune` · `selene` · `StyLua`
+
+#### Hire me
+
+Open an issue on any repo, or find the contact links on [my portfolio](https://georgedotdev.github.io#contact).
